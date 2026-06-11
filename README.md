@@ -1,10 +1,9 @@
-# 100hires-Test-Project
-Setup documentation for Cursor IDE, Claude Code, and Codex as part of the 100Hires application assignment.
-# AI Dev Tools Setup — 100Hires Application Assignment
+# No Tutorial Matched What I Saw; So I Figured It Out Myself
+Setup documentation for Cursor IDE, Claude Code, and Codex as part of the application assignment.
+# Setting Up AI Dev Tools With Zero Prior Experience- Every Step, Every Roadblock, Documented!
 
 **Name:** Fazah Shaikh
 **Date:** May 5, 2026
-**Role:** Junior Growth Marketing Specialist @ 100Hires
 
 ---
 
@@ -70,6 +69,6 @@ While navigating into my folder and opening Cursor, I typed `cd 100hires-Test-Pr
 
 ---
 
-## Key Takeaway
+## The Real Lesson
 
 None of these tools worked out of the box without running into real problems. Every issue required independent research — YouTube, documentation, and a lot of trial and error. That process of figuring things out is exactly what this assignment was testing.
