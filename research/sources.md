@@ -45,7 +45,7 @@ A note on selection: "LinkedIn organic strategy" and "SaaS industry" rarely over
 ---
 
 ## 6. Richard van der Blom
-- **LinkedIn:** https://www.linkedin.com/in/richardvanderblom/ — verify
+- **LinkedIn:** https://www.linkedin.com/in/richardvanderblom/
 - **YouTube/Research:** Founder of Just Connecting (LinkedIn/social selling consultancy, Netherlands); creator of the annual LinkedIn Algorithm Insights Report (2026 edition: 1.3M+ posts analyzed)
 - **Why chosen:** The most data-driven voice on how the LinkedIn algorithm actually distributes organic content in 2026 — directly informs what content formats and strategies work right now for B2B organic reach.
 - **Date added:** June 12, 2026
@@ -70,7 +70,7 @@ A note on selection: "LinkedIn organic strategy" and "SaaS industry" rarely over
 
 ## 9. Sam McKenna (#samsales)
 - **LinkedIn:** https://www.linkedin.com/in/samsalesli/
-- **YouTube:** https://www.youtube.com/@samsalesli (channel "#samsales")
+- **YouTube:** https://www.youtube.com/@hashtagsamsales (channel "#samsales")
 - **Why chosen:** Former LinkedIn executive, LinkedIn Brand Ambassador, Top Voice award winner with 135K+ followers. Runs #samsales, specializing in LinkedIn executive branding and B2B personal brand content — creator of the "Show Me You Know Me" framework.
 - **Date added:** June 12, 2026
 
