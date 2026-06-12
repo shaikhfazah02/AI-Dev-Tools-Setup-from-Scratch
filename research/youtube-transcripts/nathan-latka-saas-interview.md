@@ -1,4 +1,4 @@
-# \/yr SaaS Founder: How To Add \,000 in New ARR Every Month
+# 4 Million Dollar/yr SaaS Founder: How To Add 100,000 Dollars in New ARR Every Month
 
 **Expert:** Nathan Latka
 **Video URL:** https://www.youtube.com/watch?v=U2RAjHVdHZM
