@@ -38,7 +38,7 @@ A note on selection: "LinkedIn organic content strategy" and "B2B SaaS" rarely o
 
 ## 5. Michelle J. Raymond
 - **LinkedIn:** https://www.linkedin.com/in/michellejraymond/
-- **YouTube:** https://www.youtube.com/@LinkedInForB2BGrowth (channel "Michelle J Raymond - B2B Growth Co")
+- **YouTube:** https://www.youtube.com/@MichelleJRaymond (channel "Michelle J Raymond - B2B Growth Co")
 - **Why chosen:** International LinkedIn B2B Growth Coach, co-author of two LinkedIn books ("Business Gold" on Company Pages, and "The LinkedIn Branding Book"). Founder of B2B Growth Co, host of "Social Media for B2B Growth" podcast. Content is squarely organic B2B LinkedIn strategy — exactly this project's topic.
 - **Date added:** June 12, 2026
 
