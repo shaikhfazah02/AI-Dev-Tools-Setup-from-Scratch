@@ -1,6 +1,6 @@
 # Research Sources — LinkedIn Organic Content Strategy for B2B SaaS
 
-A note on selection: "LinkedIn organic strategy" and "SaaS industry" rarely overlap in one person. The 10 people below are all genuinely from SaaS — founders, CMOs, or operators who built real SaaS companies — and who also teach or model organic LinkedIn growth. Where a YouTube channel is thin or off-topic, that's flagged honestly rather than forcing a fit.
+A note on selection: "LinkedIn organic content strategy" and "B2B SaaS" rarely overlap perfectly in one person — most experts lean toward one or the other. This list balances both: some entries (Michelle J. Raymond, Richard van der Blom, Sam McKenna, Justin Welsh, Simon Høiberg) are LinkedIn/content specialists whose frameworks apply directly to B2B SaaS; others (April Dunford, Lenny Rachitsky) are SaaS operators whose work provides the strategic substrate — positioning and product-growth context — that good LinkedIn content sits on top of. Where a source's value is more contextual than tactical, that's noted in "Why chosen" rather than overstated.
 
 ---
 
