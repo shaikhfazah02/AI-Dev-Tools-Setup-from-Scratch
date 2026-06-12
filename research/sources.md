@@ -36,19 +36,19 @@ A note on selection: "LinkedIn organic strategy" and "SaaS industry" rarely over
 
 ---
 
-## 5. Hiten Shah
-- **LinkedIn:** https://www.linkedin.com/in/hnshah/
-- **YouTube:** https://www.youtube.com/channel/UCkNsg4JbOBrXeCbcFN8R71A (lower volume, "tech founder telling business stories")
-- **Why chosen:** Multi-time SaaS founder (Crazy Egg, KISSmetrics, FYI). Active on LinkedIn sharing B2B SaaS benchmarks, retention, and product insights in a candid, case-study style.
-- **Date added:** June 11, 2026
+## 5. Michelle J. Raymond
+- **LinkedIn:** https://www.linkedin.com/in/michellejraymond/
+- **YouTube:** https://www.youtube.com/@LinkedInForB2BGrowth (channel "Michelle J Raymond - B2B Growth Co")
+- **Why chosen:** International LinkedIn B2B Growth Coach, co-author of two LinkedIn books ("Business Gold" on Company Pages, and "The LinkedIn Branding Book"). Founder of B2B Growth Co, host of "Social Media for B2B Growth" podcast. Content is squarely organic B2B LinkedIn strategy — exactly this project's topic.
+- **Date added:** June 12, 2026
 
 ---
 
-## 6. Nathan Latka
-- **LinkedIn:** https://www.linkedin.com/in/nathanlatka/
-- **YouTube:** https://www.youtube.com/channel/UCJ4E393uI8mWRlSqgoeUKKw (very active, 42K Subscribers)
-- **Why chosen:** Interviews top SaaS founders and surfaces real numbers — ARR, MRR, churn, CAC, LTV, retention, valuation — across 2,400+ founders. Less "how to write a post," more raw SaaS-growth substance.
-- **Date added:** June 11, 2026
+## 6. Richard van der Blom
+- **LinkedIn:** https://www.linkedin.com/in/richardvanderblom/ — verify
+- **YouTube/Research:** Founder of Just Connecting (LinkedIn/social selling consultancy, Netherlands); creator of the annual LinkedIn Algorithm Insights Report (2026 edition: 1.3M+ posts analyzed)
+- **Why chosen:** The most data-driven voice on how the LinkedIn algorithm actually distributes organic content in 2026 — directly informs what content formats and strategies work right now for B2B organic reach.
+- **Date added:** June 12, 2026
 
 ---
 
@@ -68,11 +68,11 @@ A note on selection: "LinkedIn organic strategy" and "SaaS industry" rarely over
 
 ---
 
-## 9. Jason Lemkin
-- **LinkedIn:** https://www.linkedin.com/in/jasonmlemkin/
-- **YouTube:** https://www.youtube.com/@SaaStr (very active)
-- **Why chosen:** Founder of SaaStr, the largest SaaS community/media operation — often called the "godfather of SaaS." Macro SaaS growth strategy more than LinkedIn craft, but unmatched depth on scaling SaaS GTM.
-- **Date added:** June 11, 2026
+## 9. Sam McKenna (#samsales)
+- **LinkedIn:** https://www.linkedin.com/in/samsalesli/
+- **YouTube:** https://www.youtube.com/@samsalesli (channel "#samsales")
+- **Why chosen:** Former LinkedIn executive, LinkedIn Brand Ambassador, Top Voice award winner with 135K+ followers. Runs #samsales, specializing in LinkedIn executive branding and B2B personal brand content — creator of the "Show Me You Know Me" framework.
+- **Date added:** June 12, 2026
 
 ---
 
